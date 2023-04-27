@@ -8,4 +8,5 @@ print(
     f"Idę do warzywniak, kupuję tu następujące rzeczy: {shopping['warzywniak']}")
 print(
     f"W sumie kupuję: {len(shopping['piekarnia']+shopping['warzywniak'])} produktów")
+print("zdublowana lista")
 
